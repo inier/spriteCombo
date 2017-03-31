@@ -1,0 +1,25 @@
+{
+  "name": "spritesCombo",
+  "version": "1.0.0",
+  "description": "this is spritesCombo",
+  "main": "gulpfile.js",
+  "dependencies": {    
+  },
+  "devDependencies": {
+	"cross-env": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp.spritesmith": "^6.2.1",
+	"node-sass": "^4.1.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-cache": "^0.4.5",
+    "gulp-changed": "^1.3.2",
+    "gulp-imagemin": "^3.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "merge-stream": "^1.0.1",
+    "gulp-plumber": "^1.1.0"
+  },
+  "scripts": {},
+  "author": "inier",
+  "license": "ISC"
+}
